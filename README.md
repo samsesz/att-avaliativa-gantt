@@ -33,9 +33,9 @@ Entrega Final - Sistema Implantado:milestone, m6, 2025-06-30, 0d
 
 ```mermaid
 graph TD
-  A["Equipe de 6 pessoas"]:::azul --> B["Criticidade: D (Dinheiro)"]:::amarelo
+  A["Equipe de 6 pessoas"]:::branco --> B["Criticidade: D (Dinheiro)"]:::amarelo
   B --> C["Intensidade de Impacto: 6 a 8"]:::laranja
-  C --> D["Metodologia Recomendada: Crystal D6 (Crystal Clear)"]:::verde
+  C --> D["Metodologia Recomendada: Crystal D6 (Crystal Clear)"]:::vermelho
 
   %% Definições de estilo
   classDef branco fill:#ffffff,stroke:#000,stroke-width:1px;
