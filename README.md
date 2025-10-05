@@ -26,3 +26,19 @@ Entrega 3 - Upload Logotipo :milestone, m3, 2025-02-25, 0d
 Entrega 4 - Relatórios PDF/Excel :milestone, m4, 2025-03-11, 0d
 Entrega 5 - Painel Administrativo :milestone, m5, 2025-03-25, 0d
 Entrega Final - Sistema Implantado:milestone, m6, 2025-06-30, 0d
+
+```
+
+#Grafico crystal
+
+```mermaid
+graph TD
+  A["Equipe de 6 pessoas"]:::azul --> B["Criticidade: D (Dinheiro)"]:::amarelo
+  B --> C["Intensidade de Impacto: 6 a 8"]:::laranja
+  C --> D["Metodologia Recomendada: Crystal D6 (Crystal Clear)"]:::verde
+
+  %% Definições de estilo
+  classDef azul fill:#A7C7E7,stroke:#000,stroke-width:1px;
+  classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
+  classDef laranja fill:#FFA233,stroke:#000,stroke-width:1px;
+  classDef verde fill:#88CC88,stroke:#000,stroke-width:1px;
