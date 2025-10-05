@@ -38,7 +38,7 @@ graph TD
   C --> D["Metodologia Recomendada: Crystal D6 (Crystal Clear)"]:::verde
 
   %% Definições de estilo
-  classDef azul fill:#A7C7E7,stroke:#000,stroke-width:1px;
+  classDef branco fill:#ffffff,stroke:#000,stroke-width:1px;
   classDef amarelo fill:#FFD80D,stroke:#000,stroke-width:1px;
   classDef laranja fill:#FFA233,stroke:#000,stroke-width:1px;
-  classDef verde fill:#88CC88,stroke:#000,stroke-width:1px;
+  classDef vermelho fill:#E64C3C,stroke:#000,stroke-width:1px;
